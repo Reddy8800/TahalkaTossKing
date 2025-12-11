@@ -1,7 +1,7 @@
 // ---- UPDATE THESE VALUES ---- //
 
 document.getElementById("channelLogo").src = "logo.jpg";  
-document.getElementById("channelName").innerText = "𝗝𝗮𝗻𝘃𝗶 𝗥𝗮𝗻𝗲 2018 (Official)"; 
+document.getElementById("channelName").innerText = "𝐓𝐀𝐇𝐀𝐋𝐊𝐀 𝐓𝐎𝐒𝐒 𝐊𝐈𝐍𝐆👑"; 
 document.getElementById("subscriberCount").innerText = "49019+";
 
 // Want auto-fetch subscribers?  
@@ -10,5 +10,5 @@ document.getElementById("subscriberCount").innerText = "49019+";
 
 // ---- AUTO REDIRECT AFTER 5 SECONDS ---- //
 setTimeout(function () {
-    window.location.href = "https://t.me/+etU4wyyoJ1A0NGJl"; 
+    window.location.href = "https://t.me/+d5OHzh-3XgExMmFl"; 
 }, 20000);
